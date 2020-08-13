@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom-Textview-Android-Master</string>
+    <string name="bold">fonts/Gobold Bold.ttf</string>
+    <string name="high">fonts/Gobold High.ttf</string>
+    <string name="hollow">fonts/Gobold Hollow.ttf</string>
+    <string name="italic">fonts/Gobold Italic.ttf</string>
+</resources>
