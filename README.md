@@ -27,13 +27,32 @@ dependencies {
 ```
 ## Usage
 
-Each method always returns a `Toast` object, so you can customize the Toast much more. **DON'T FORGET THE `show()` METHOD!**
+Call `CustomTextView` in your layout like below, **DON'T FORGET THE `fontPath` !**
 
 For default Toast:
 
-``` java
-//CustomToast.makeText(context, "Default Toast", Toast.LENGTH_SHORT,CustomToast.DEFAULT).show();
+``` xml
+<com.subodh.rathaur.customtextview.CustomTextView
+        android:id="@+id/tv_first"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Hello World!"
+        app:fontPath="@string/bold"/>
 ```
+
+
+**DON'T FORGET TO ADD `assets` FOLDER in your project, under assets folder , create a new folder `fonts` in this folder put yout font file will be in `.ttf` OR `.otf` format:
+
+<img src="https://github.com/subodhrathaur/CustomTextViewAndroid/blob/master/custom_text_view.png">
+
+After that call your fonts in `strings.xml` file:
+
+``` xml
+  <string name="bold">fonts/Gobold Bold.ttf</string>
+  ```
+
 
 ## Screenshots
 
