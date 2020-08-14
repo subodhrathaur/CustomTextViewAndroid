@@ -43,9 +43,9 @@ For default Toast:
 ```
 
 
-**DON'T FORGET TO ADD `assets` FOLDER in your project, under assets folder , create a new folder `fonts` in this folder put yout font file will be in `.ttf` OR `.otf` format:
+**DON'T FORGET TO ADD `assets` FOLDER in your project, under assets folder , create a new folder `fonts` in this folder put yout font file will be in `.ttf` OR `.otf` format:**
 
-<img src="https://github.com/subodhrathaur/CustomTextViewAndroid/blob/master/custom_text_view.png">
+<img src="https://github.com/subodhrathaur/CustomTextViewAndroid/blob/master/cropped_image_assets.png">
 
 After that call your fonts in `strings.xml` file:
 
