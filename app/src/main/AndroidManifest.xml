@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.subodh.rathaur.custom_textview_android_master">
+    package="com.subodh.rathaur.customtextview">
 
     <application
         android:allowBackup="true"

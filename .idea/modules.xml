@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Custom-Textview-Android-Master.iml" filepath="$PROJECT_DIR$/Custom-Textview-Android-Master.iml" group="Custom-Textview-Android-Master" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Custom-Textview-Android-Master/app" />
-      <module fileurl="file://$PROJECT_DIR$/customtextview/customtextview.iml" filepath="$PROJECT_DIR$/customtextview/customtextview.iml" group="Custom-Textview-Android-Master/customtextview" />
+      <module fileurl="file://$PROJECT_DIR$/CustomTextViewAndroid.iml" filepath="$PROJECT_DIR$/CustomTextViewAndroid.iml" group="CustomTextViewAndroid" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CustomTextViewAndroid/app" />
+      <module fileurl="file://$PROJECT_DIR$/customtextview/customtextview.iml" filepath="$PROJECT_DIR$/customtextview/customtextview.iml" group="CustomTextViewAndroid/customtextview" />
     </modules>
   </component>
 </project>
