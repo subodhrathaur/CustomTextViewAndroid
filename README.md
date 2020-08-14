@@ -22,7 +22,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 ```gradle
 dependencies {
 	...
-	  implementation 'com.github.subodhrathaur:CustomTextViewAndroid:0.0.1'
+	  implementation 'com.github.subodhrathaur:CustomTextViewAndroid:0.0.2'
 }
 ```
 ## Usage
